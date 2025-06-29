@@ -25,7 +25,7 @@ It generates joint chains, FK/IK controllers, and constraints, forming a clean a
 - Designed to work inside Maya (tested in 2019–2025)
 
 # Demo  
-▶ Watch the full biped auto-rig demo: [Watch on Vimeo](https://vimeo.com/1097236151/43abb215fc)
+▶ Watch the full biped auto-rig demo: [Watch on Vimeo](https://vimeo.com/1097249142/81bcc98230)
 
 (Note: This script is built using Python and structured modularly. Some techniques are inspired by tools developed by my instructor, Dennis Turner, but only my own code is included in this repository.)
 

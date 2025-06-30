@@ -1,5 +1,5 @@
 # Biped_Rig_Auto_Rigging_Tool
-[Final Rig Preview](./BipedRig_Preview.png)
+[Final Rig Preview](./Preview.png)
 
 Python Auto Rig Tool for Biped Characters  
 Created by Arrow Lyu. Designed for humanoid and two-legged creature characters.

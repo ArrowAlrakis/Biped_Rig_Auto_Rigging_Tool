@@ -1,4 +1,4 @@
-# Biped_Rig_Auto_Rigging_Tool
+# Biped_AutoRig_Python_Tool
 [Final Rig Preview](./Preview.png)
 
 Python Auto Rig Tool for Biped Characters  
